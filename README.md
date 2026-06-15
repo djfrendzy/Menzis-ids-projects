@@ -1,4 +1,4 @@
-# 🛡️ AI-Driven Network Intrusion Detection — Menzis Finance
+# 🛡️ AI-Driven Network Intrusion Detection - Menzis Finance
 
 > > Applying machine learning to detect DDoS attacks on real enterprise network traffic.
 
