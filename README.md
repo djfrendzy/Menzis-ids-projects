@@ -1,7 +1,6 @@
 # 🛡️ AI-Driven Network Intrusion Detection — Menzis Finance
 
-> **Coursework Project | Usable Cyber Security Module**  
-> Applying machine learning to detect DDoS attacks on real enterprise network traffic.
+> > Applying machine learning to detect DDoS attacks on real enterprise network traffic.
 
 ---
 
