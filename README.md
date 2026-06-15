@@ -78,7 +78,7 @@ Published by the Canadian Institute for Cybersecurity.
 > ⚠️ **The dataset CSV is not included in this repo** (file size ~50MB). Download it from:  
 > https://cicresearch.ca/CICDataset/CIC-IDS-2017/Dataset/MachineLearningCSV/
 
-Once downloaded, update `CSV_PATH` at the top of each pipeline script to point to your local copy.
+Once downloaded, update `CSV_PATH` at the top of each pipeline script to point to your local copy. - https://drive.google.com/drive/u/2/folders/1KZA11LHIDbl52ptxEUz4_1S-3NI3ht3m
 
 ---
 
@@ -134,15 +134,14 @@ All figures and results are saved to the `outputs/` folder automatically.
 ## 📄 Reports
 
 Full project reports (IEEE referenced, with embedded figures) are available as Word documents in each project folder.
-
+portfolio link: https://drive.google.com/drive/u/2/folders/1KZA11LHIDbl52ptxEUz4_1S-3NI3ht3m
 ---
 
 ## 👤 Author
 
-**[Your Full Name]**  
-MSc [Your Programme] — [Your University]  
-[LinkedIn Profile URL]  
-[Your Email — optional]
+**Akinbosola K. Falana**  
+MSc Cyber Security - Keele University  
+[[LinkedIn Profile URL] ](https://www.linkedin.com/in/kehindefalana/) 
 
 ---
 
